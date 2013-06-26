@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <Extensions>rc</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\util_capture_file.cpp" > <Filter>Source Files</Filter> </ClCompile>
+    <ClCompile Include="src\util_pipeline_gesture.cpp" > <Filter>Source Files</Filter> </ClCompile>
+    <ClCompile Include="src\util_cmdline.cpp" > <Filter>Source Files</Filter> </ClCompile>
+    <ClCompile Include="src\util_pipeline_raw.cpp" > <Filter>Source Files</Filter> </ClCompile>
+    <ClCompile Include="src\util_pipeline_face.cpp" > <Filter>Source Files</Filter> </ClCompile>
+    <ClCompile Include="src\util_captureimpl.cpp" > <Filter>Source Files</Filter> </ClCompile>
+    <ClCompile Include="src\util_render.cpp" > <Filter>Source Files</Filter> </ClCompile>
+    <ClCompile Include="src\util_capture.cpp" > <Filter>Source Files</Filter> </ClCompile>
+    <ClCompile Include="src\util_pipeline_voice.cpp" > <Filter>Source Files</Filter> </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

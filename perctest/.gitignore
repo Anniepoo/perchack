@@ -1,0 +1,6 @@
+
+/common/build/Win32_Debug/libpxcutils/.gitignore
+/.gitignore
+/gesture_viewer_simple/build/Win32_Debug/gesture_viewer_simple/.gitignore
+/processing/processingApps/
+/processing/.gitignore

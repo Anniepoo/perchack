@@ -1,0 +1,8 @@
+﻿  gesture_viewer_simple.cpp
+  gesture_render.cpp
+..\common\src\gesture_render.cpp(148): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+..\common\src\gesture_render.cpp(179): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+  Generating Code...
+  gesture_viewer_simple_vs2010.vcxproj -> C:\docs\perc\perctest\gesture_viewer_simple\bin/Win32/gesture_viewer_simple_d.exe
